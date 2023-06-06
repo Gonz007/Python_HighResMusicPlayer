@@ -1,4 +1,4 @@
-#Reproductor_HiFy_Python
+# Reproductor_HiFy_Python
 
 Reproductor de musica de alta fidelidad hecho en Python con interface grafica, construido con PyQt5 y Pygame. Permite reproducir archivos de música locales.
 
