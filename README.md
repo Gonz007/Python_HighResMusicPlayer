@@ -13,7 +13,7 @@ Se implementan:
 
 Para ejecutar este proyecto se requiere:
 Instalacion de python:
-- https://www.python.org/
+- [https://www.python.org/](https://www.python.org/downloads/)
 
 Instalacion de las bibliotecas usadas:
 - pip install pygame
