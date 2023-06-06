@@ -11,6 +11,7 @@ Se implementan:
 - Archivo de configuraciones
 
 
+
 Para ejecutar este proyecto se requiere:
 - Instalacion de python:
 https://www.python.org/
