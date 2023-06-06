@@ -10,8 +10,6 @@ Se implementan:
 - Selector de paths y ajuste de volumen
 - Archivo de configuraciones
 
-
-
 Para ejecutar este proyecto se requiere:
 Instalacion de python:
 - https://www.python.org/
